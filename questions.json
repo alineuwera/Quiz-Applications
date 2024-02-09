@@ -1,0 +1,44 @@
+{
+    "questions": [
+      {
+        "question": "What is the name of your instructors in mobile programming?",
+        "options": [
+          {"text": "Ishimwe Pacifique (Paccy)", "correct": false},
+          {"text": "Muhumuza JeanPierre (JP)", "correct": false},
+          {"text": "all", "correct": true}
+        ]
+      }, 
+      {
+        "question": "What is 800+200?",
+        "options": [
+          {"text": "20", "correct": false},
+          {"text": "1000", "correct": true},
+          {"text": "168", "correct": false},
+          {"text": "130", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the full word of XML?",
+        "options": [
+          {"text": "Extensible Markup Language", "correct": true},
+          {"text": "Extended Markup language", "correct": false}
+        ]
+      },
+      {
+        "question": "PHP Stands for?",
+        "options": [
+          {"text": "Personal Home Page", "correct": false},
+          {"text": "Hypertext Preprocessor", "correct": true},
+          {"text": "all", "correct": false}
+        ]
+      },
+      {
+        "question": "What is the output of this following question: 10 % 5?",
+        "options": [
+          {"text": "1", "correct": false},
+          {"text": "2", "correct": false},
+          {"text": "0", "correct": true}
+        ]
+      }
+    ]
+  }
